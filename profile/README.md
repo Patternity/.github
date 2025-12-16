@@ -61,6 +61,5 @@ not on consumer-facing products.
 ## Contact
 
 For protocol discussions, research collaboration, or security-related matters:
-```
+
 **patternity.core@proton.me**
-```
